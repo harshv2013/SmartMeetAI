@@ -270,7 +270,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Harsh Vardhan**  
 *AI Engineer | Azure | GenAI | Agentic AI*
 
-📧 your.email@example.com  
+📧 harsh2013@gmail.com 
 🌐 [LinkedIn](https://www.linkedin.com/in/harsh-vardhan-60b6aa106/)  
 💻 [GitHub](https://github.com/harshv2013/)
 
